@@ -1,0 +1,14 @@
+/**
+ * File Name: App.module.css
+ * Student's Name: Hoang Giang Dang
+ * Student ID: 301255147
+ * Date: Jun 1,2024
+ */
+ @import "./vars.css";
+
+.App {
+  background-color: var(--color-bg);
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a first project web I did in java field",
+    "skills": [ "Java", "Html"],
+    
+    "source": "http://studentweb.cencol.ca/hdang23/"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project2.png",
+    "description": "This is a project I did for the assignemt web",
+    "skills": ["Java", "Html"],
+    
+    "source": "http://studentweb.cencol.ca/hdang23/COMP125assignment1.html"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project for a small game in web",
+    "skills": ["Java", "Html"],
+    
+    "source": "http://studentweb.cencol.ca/hdang23/COMP125assignment3.html"
+  }
+]

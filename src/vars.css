@@ -1,0 +1,17 @@
+/**
+ * File Name: vars.css
+ * Student's Name: Hoang Giang Dang
+ * Student ID: 301255147
+ * Date: Jun 1,2024
+ */
+ :root {
+  /* Colours */
+  --color-text: #fff;
+  --color-primary: #576cbc;
+  --color-secondary: #19376d;
+  --color-dark: #0b2447;
+  --color-bg: #04152d;
+
+  /* Fonts */
+  --font-roboto: "Roboto";
+}
